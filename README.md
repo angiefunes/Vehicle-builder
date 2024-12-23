@@ -2,7 +2,7 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)(https://opensource.org/licenses/MIT)
 ## Description
-Allows users to easily create a README file.
+Use this application to create a new vehicle or update an existing one.
 
 ## Table of Contents 
 [Installation](#installation)
@@ -29,6 +29,6 @@ MIT
 undefined
 
 ## Tests
-
+Tests Run npm start and answer prompts.
 ## Questions
 angie funes
