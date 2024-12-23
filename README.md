@@ -31,4 +31,5 @@ undefined
 ## Tests
 Tests Run npm start and answer prompts.
 ## Questions
-angie funes
+If you have any questions contact me at angiefunesxo@Gmail.com
+https://github.com/angiefunes
